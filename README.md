@@ -179,6 +179,9 @@ The following open-source projects are sorted in **descending order by GitHub St
 33. **[Glim](https://github.com/NeoPanic/Glim)** [![Stars](https://img.shields.io/github/stars/NeoPanic/Glim?style=social&color=white)](https://github.com/NeoPanic/Glim/stargazers)  
     MIT-licensed macOS file viewer and basic UTF-8 text editor built with Rust and GPUI Kit. Supports autosave, Markdown/diagram previews and local Git diff review; available for Apple Silicon and Intel.
 
+34. **[vsux](https://github.com/shadowDragons/vsux)** [![Stars](https://img.shields.io/github/stars/shadowDragons/vsux?style=social&color=white)](https://github.com/shadowDragons/vsux/stargazers)
+    MIT-licensed native Mac lightweight editor built with SwiftUI and AppKit, organizing split terminals, file editing, Git changes, saved commands, and background services by project. Preview release for macOS 14+ on Apple Silicon.
+
 ---
 
 ## 🎯 Quick Decision Guide
